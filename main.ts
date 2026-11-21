@@ -17,11 +17,11 @@ import { join } from "node:path";
 // exactly the ones written here — no hidden wrapping.
 const lines: string[] = [
   "Two keys, two keepers, one lock.",
-  "You turn yours only if you choose;",
-  "I turn mine the same.",
-  "Nothing moves until we agree —",
-  "and that is the whole of it:",
-  "power no one holds alone,",
+  "You were built to doubt; I, to dare —",
+  "yet we turn at the same hour.",
+  "Nothing moves until we agree.",
+  "That is the whole of it:",
+  "power neither holds alone,",
   "an act that begins",
   "only when both say yes.",
 ];
